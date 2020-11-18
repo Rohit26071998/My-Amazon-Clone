@@ -1,0 +1,52 @@
+.back_to_top{
+    background-color: #485769;
+    text-align: center;
+    margin-top: 40px;
+}
+.back_to_top_text{
+    display: block;
+    color: white;
+    font-size: 18px;
+    padding: 15px 0;
+}
+
+.footer_menu{
+    display: flex;
+    background-color:#232F3E;
+    
+}
+.get_to_know_us{
+    padding: 0 10px;
+}
+.get_to_know_us_text{
+    color: white;
+    font-weight: 800;
+    margin-top: 10px;
+    text-align: left;
+}
+ul li {
+    color: white;
+    margin: 0 0 10px;
+}
+a{
+    color: bisque;
+    font-weight: 500;
+}
+.connect_with_us_text{
+    color: white;
+    font-weight: 800;
+    margin-top: 10px; 
+    text-align: left;   
+}
+.make_money_with_us_text{
+    color: white;
+    font-weight: 800;
+    margin-top: 10px;
+    text-align: left;  
+}
+.let_us_help_you_text{
+    color: white;
+    font-weight: 800; 
+    margin-top: 10px;
+    text-align: left; 
+}

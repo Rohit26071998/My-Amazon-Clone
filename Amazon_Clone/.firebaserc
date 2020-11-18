@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-ea2a6": {
+      "hosting": {
+        "my-amazon-clone": [
+          "my-ea2a6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-ea2a6"
+  }
+}
